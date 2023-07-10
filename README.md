@@ -1,4 +1,4 @@
-# spring-data-jpa-solutions
+# spring-data-jpa-solution
 this project show to you how to create base classes for spring data that your business developer can extend these classes
 and rid to write boilerplate code when using jpa.
 
