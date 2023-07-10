@@ -10,7 +10,7 @@ public class HibernateExceptionTranslator {
 
     public String translate(ConstraintViolationException ex) {
 
-        // these are postgres sql exception code
+        // these are some of postgres sql exception code
         switch (ex.getSQLState()) {
 
             case "23503":
